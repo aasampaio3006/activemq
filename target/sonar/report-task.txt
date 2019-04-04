@@ -1,0 +1,6 @@
+projectKey=br.org:activemq
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=br.org%3Aactivemq
+ceTaskId=AWnZeYEgzonzVF-ky4oc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWnZeYEgzonzVF-ky4oc
